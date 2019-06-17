@@ -24,7 +24,7 @@ Usage:
 Usage should be relatively clear for developers familiar with PBRT.
 
 ```bash
-$ git clone --recursive https://github.com/lyfxyz/blsml/
+$ git clone https://github.com/lyfxyz/blsml/
 $ cd blsml
 $ mkdir build
 $ cd build
