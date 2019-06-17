@@ -1,0 +1,5816 @@
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.131161 -0.956615
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.124913 -0.827363
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.107389 -0.780921
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.112836 -0.701048
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.138134 -0.622080
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.106234 -0.519489
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.105433 -0.467733
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.115298 -0.394633
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.139407 -0.254735
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.106465 -0.224602
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.109775 -0.157665
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.114329 -0.068516
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.114598 0.120636
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.101437 0.206339
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.119851 0.246498
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.117563 0.372520
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.133379 0.459939
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.108370 0.481370
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.119660 0.613179
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.109779 0.647785
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.130675 0.790897
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.125821 0.806877
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.127827 0.924149
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.163499 -0.923839
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.176381 -0.815296
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.178475 -0.760903
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.168812 -0.659560
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.166393 -0.607470
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.171841 -0.505690
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.177876 -0.466025
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.171279 -0.387618
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.167177 -0.301841
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.179692 -0.207106
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.161313 -0.123043
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.162111 -0.027732
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.148687 0.108095
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.176550 0.192549
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.154125 0.269747
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.144652 0.367369
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.179589 0.438595
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.163895 0.544746
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.159160 0.567410
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.160145 0.711902
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.150846 0.776534
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.151889 0.846146
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.172310 0.957780
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.203907 -0.893359
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.189311 -0.840749
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.187429 -0.783939
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.207665 -0.697936
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.184247 -0.560267
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.186270 -0.557104
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.201148 -0.443790
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.188101 -0.361691
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.191393 -0.294309
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.217489 -0.188450
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.211750 -0.142249
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.214647 -0.054654
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.198600 0.097111
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.199526 0.209319
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.180721 0.247687
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.201828 0.328364
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.219814 0.425961
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.190625 0.517195
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.204707 0.563042
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.210217 0.643236
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.191679 0.763329
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.213011 0.800375
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.201175 0.940967
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.222572 -0.956379
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.251244 -0.828305
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.256674 -0.794220
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.247158 -0.695968
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.243019 -0.624618
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.224469 -0.492952
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.240487 -0.460952
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.242217 -0.345094
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.241291 -0.308213
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.256749 -0.192526
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.245628 -0.125057
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.230726 -0.063097
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.231318 0.114162
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.236578 0.167815
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.240065 0.269997
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.251250 0.325728
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.225579 0.429822
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.228976 0.480940
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.257615 0.620023
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.235722 0.667791
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.231201 0.756398
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.237358 0.850822
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.241493 0.955322
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.274678 -0.946823
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.261043 -0.861062
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.271577 -0.758727
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.261598 -0.702495
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.299420 -0.593174
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.298026 -0.549348
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.263952 -0.442371
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.275799 -0.354267
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.275885 -0.316235
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.294473 -0.228617
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.266535 -0.090838
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.272411 -0.014153
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.294665 0.113863
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.294115 0.236327
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.297290 0.315628
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.298557 0.350416
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.285801 0.467483
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.295386 0.508501
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.269052 0.595997
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.266413 0.640445
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.277315 0.758339
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.295616 0.855498
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.286961 0.883387
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.304351 -0.886947
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.306002 -0.801415
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.336129 -0.733744
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.301615 -0.683455
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.334141 -0.630226
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.331814 -0.493572
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.324180 -0.408422
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.315332 -0.340871
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.308168 -0.312694
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.322864 -0.207507
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.308740 -0.105288
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.333899 -0.036753
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.327893 0.112375
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.303060 0.191289
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.319081 0.245642
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.324975 0.323554
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.328672 0.437859
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.315027 0.484889
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.322587 0.588739
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.321027 0.718835
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.332775 0.769022
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.328042 0.845561
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.339933 0.952602
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.368681 -0.893495
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.342378 -0.830890
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.349287 -0.748544
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.363514 -0.716486
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.362273 -0.569133
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.364594 -0.485563
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.377683 -0.454579
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.366074 -0.335797
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.350751 -0.268730
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.368895 -0.231063
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.357078 -0.129231
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.340880 -0.033911
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.340796 0.128859
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.346614 0.219751
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.367391 0.291299
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.375998 0.340047
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.365840 0.413027
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.344722 0.521003
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.346224 0.608985
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.349136 0.651692
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.355143 0.722014
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.356222 0.813126
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.364650 0.951188
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.408954 -0.944098
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.386475 -0.826687
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.411551 -0.791986
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.381243 -0.694248
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.402029 -0.577641
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.391708 -0.524910
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.391168 -0.468827
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.397609 -0.394658
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.397236 -0.269234
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.400803 -0.189599
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.386220 -0.112294
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.402302 -0.031929
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.391590 0.095368
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.393446 0.218611
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.390728 0.263821
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.416879 0.334109
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.406451 0.448487
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.388129 0.517415
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.410965 0.602129
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.403277 0.680983
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.390998 0.775703
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.392986 0.805049
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.387022 0.882215
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.450993 -0.914764
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.441629 -0.819446
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.448909 -0.774616
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.435664 -0.696171
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.428478 -0.591537
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.431878 -0.528172
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.427864 -0.433320
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.446763 -0.385369
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.439379 -0.244745
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.432842 -0.173737
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.451669 -0.136982
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.454053 -0.073098
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.455407 0.086332
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.440938 0.173016
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.426756 0.282437
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.430217 0.361901
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.420213 0.415226
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.452054 0.519279
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.443118 0.591211
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.438408 0.671808
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.423066 0.790448
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.438785 0.829877
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.436945 0.949814
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.491647 -0.887284
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.476811 -0.820722
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.495484 -0.722810
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.466544 -0.716862
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.470864 -0.562581
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.495901 -0.516083
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.466477 -0.413619
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.481672 -0.334842
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.478707 -0.303541
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.477909 -0.167057
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.499963 -0.100533
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.498098 -0.056111
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.472832 0.134535
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.474729 0.221155
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.485619 0.317607
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.487521 0.368946
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.469718 0.448285
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.478180 0.524360
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.468337 0.587169
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.463317 0.674089
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.460895 0.752819
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.483970 0.874044
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.461555 0.918105
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.510904 -0.941466
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.534185 -0.822433
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.534660 -0.755900
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.504064 -0.660980
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.501866 0.090937
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.530246 0.216806
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.511167 0.319000
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.532951 0.325317
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.504383 0.452874
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.534243 0.495168
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.511374 0.638695
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.539976 0.656801
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.525445 0.793993
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.527717 0.843090
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.516940 0.917802
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.575191 -0.885243
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.568850 -0.837125
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.571417 -0.756386
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.551129 -0.652970
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.569404 0.109849
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.552409 0.161274
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.559419 0.311074
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.565131 0.765691
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.573411 0.832239
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.566970 0.917376
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.608007 -0.952256
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.603250 -0.870388
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.581926 -0.783555
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.583877 -0.682880
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.613335 0.094539
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.612609 0.233430
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.596991 0.292637
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.615650 0.750142
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.601735 0.835634
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.587777 0.897805
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.650317 -0.902860
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.642854 -0.819175
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.655811 -0.758912
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.620761 -0.712275
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.656352 0.159937
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.626954 0.209158
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.641229 0.275079
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.636790 0.731557
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.658536 0.807902
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.636048 0.937300
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.665600 -0.929025
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.695445 -0.808769
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.675007 -0.784404
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.680913 -0.718174
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.661232 0.138499
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.694030 0.201247
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.696754 0.281010
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.684947 0.736629
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.660721 0.832816
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.696856 0.889519
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.729146 -0.941325
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.722266 -0.840897
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.739686 -0.748717
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.717750 -0.677006
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.721506 0.136583
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.735292 0.178490
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.709369 0.288293
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.704455 0.725897
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.707263 0.865157
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.702166 0.891037
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.751986 -0.935276
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.748871 -0.874955
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.757955 -0.782785
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.746744 -0.646258
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.767675 0.149120
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.778976 0.200936
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.741820 0.269466
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.750177 0.780469
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.777066 0.809902
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.773999 0.889148
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.785475 -0.900907
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.807955 -0.844854
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.819495 -0.786619
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.806045 -0.702981
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.813133 0.141742
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.803551 0.198014
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.817735 0.250133
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.795749 0.773665
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.784295 0.866966
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.784569 0.956506
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.822115 -0.916774
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.836022 -0.821277
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.828822 -0.756034
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.854495 -0.671357
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.849137 -0.579305
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.837119 -0.559257
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.821805 -0.474745
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.847719 -0.358879
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.850326 -0.278802
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.834162 -0.201806
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.832747 -0.113283
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.823059 -0.070962
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.859888 0.147835
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.836130 0.165437
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.826675 0.285402
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.849000 0.595042
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.845500 0.644347
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.845420 0.759530
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.853955 0.806723
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.837058 0.913139
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.893551 -0.915646
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.875853 -0.843254
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.879661 -0.767196
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.880764 -0.659480
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.890606 -0.604885
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.890835 -0.545279
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.878014 -0.405297
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.862213 -0.359337
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.882375 -0.275572
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.892598 -0.162749
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.866780 -0.085904
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.895019 -0.059958
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.882956 0.080967
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.888093 0.184354
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.890224 0.274967
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.882594 0.631702
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.882959 0.679766
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.869893 0.723821
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.897833 0.812542
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.890369 0.942122
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.903062 -0.894573
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.929476 -0.842683
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.919464 -0.762780
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.919486 -0.712680
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.906877 -0.639402
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.926860 -0.484432
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.936672 -0.421480
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.918826 -0.397336
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.921373 -0.249700
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.927259 -0.161138
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.913285 -0.151870
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.928394 -0.020161
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.906900 0.097727
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.900100 0.218101
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.938773 0.288326
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.917859 0.639143
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.900736 0.667016
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.905145 0.799932
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.923972 0.831490
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.906758 0.915743
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.963434 -0.952799
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.959512 -0.864435
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.945965 -0.764173
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.969959 -0.661018
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.946270 -0.564046
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.955084 -0.505497
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.946860 -0.461274
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.941544 -0.329635
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.961065 -0.252429
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.963098 -0.198525
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.952214 -0.145596
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.958300 -0.023550
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.954783 0.083017
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.976264 0.180656
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.961284 0.268279
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.963197 0.576556
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.973877 0.675184
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.953865 0.747441
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.973911 0.858848
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.950169 0.945789
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.000486 -0.898919
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.981709 -0.859514
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.001010 -0.767005
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.012304 -0.664136
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.987153 -0.575247
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.001524 -0.511851
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.008739 -0.450325
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.016552 -0.392980
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.013902 -0.270583
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.006041 -0.193228
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.993438 -0.112866
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.004305 -0.058515
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.017982 0.144043
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.980935 0.231785
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.980350 0.255228
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.007080 0.566515
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.998333 0.674591
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.996040 0.743008
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 0.988401 0.864457
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.002292 0.917707
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.036293 -0.888428
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.051372 -0.823110
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.059555 -0.783922
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.049776 -0.658456
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.056856 -0.594462
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.059697 -0.529516
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.038111 -0.400647
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.026640 -0.321470
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.023513 -0.268548
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.028584 -0.212264
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.034710 -0.144080
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.042358 -0.022276
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.027114 0.145227
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.059413 0.174451
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.029562 0.268863
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.032224 0.594100
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.037991 0.647025
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.053710 0.773542
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.052989 0.807282
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.053571 0.903341
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.075244 -0.943240
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.064665 -0.854881
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.084472 -0.720419
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.079879 -0.717520
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.084704 -0.635310
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.097088 -0.519242
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.085612 -0.441671
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.080861 -0.324892
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.078510 -0.298647
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.085848 -0.194771
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.098685 -0.121433
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.061545 -0.076437
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.080048 0.121488
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.064697 0.194046
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.099777 0.310988
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.071435 0.637353
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.075244 0.692831
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.095291 0.758817
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.089144 0.807065
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.070173 0.958385
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.115394 -0.884761
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.128724 -0.863876
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.130720 -0.746933
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.128924 -0.682877
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.128763 -0.613470
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.113392 -0.536191
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.121427 -0.476494
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.123811 -0.388295
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.101035 -0.274405
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.102358 -0.199726
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.134046 -0.154510
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.100404 -0.043466
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.121412 0.120751
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.131753 0.200172
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.106991 0.318812
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.127821 0.624619
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.114762 0.654489
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.118124 0.720042
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.113665 0.850474
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.107261 0.933076
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.167823 -0.909802
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.175835 -0.844509
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.170583 -0.748945
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.170839 -0.706376
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.166614 -0.563151
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.150705 -0.507773
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.162518 -0.465394
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.161522 -0.398432
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.159422 -0.255827
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.157850 -0.180070
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.169412 -0.124213
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.150360 -0.015957
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.173268 0.098285
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.162156 0.172238
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.176539 0.290901
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.153629 0.598353
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.166017 0.686694
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.166912 0.798680
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.155636 0.837039
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.179165 0.925207
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.206586 -0.956639
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.215084 -0.850272
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.186554 -0.747918
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.197119 -0.677683
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.200610 -0.597957
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.202217 -0.507727
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.182520 -0.419496
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.181356 -0.349272
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.181530 -0.261649
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.187836 -0.194081
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.188750 -0.114753
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.200941 -0.044071
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.197127 0.125508
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.194251 0.215267
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.205576 0.303902
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.197677 0.618213
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.207380 0.649906
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.214478 0.792030
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.216469 0.823762
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.186586 0.936627
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.255051 -0.947978
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.246886 -0.805971
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.227611 -0.766860
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.248074 -0.648551
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.234702 -0.620409
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.247984 -0.504552
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.254252 -0.446487
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.256706 -0.382130
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.255899 -0.273424
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.222209 -0.160476
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.221381 -0.136448
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.230109 0.117335
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.226758 0.175487
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.233733 0.304639
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.256112 0.622721
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.239133 0.649003
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.252087 0.777468
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.230351 0.856720
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.224311 0.955011
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.283172 -0.887303
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.260759 -0.862868
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.272904 -0.748508
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.277585 -0.712316
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.274061 0.102218
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.273459 0.177607
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.284207 0.315934
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.306423 -0.884013
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.315369 -0.823314
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.335367 -0.772609
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.321239 -0.695125
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.303309 0.149774
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.301603 0.200908
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.335800 0.294188
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.372961 -0.895223
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.362878 -0.800979
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.357750 -0.767429
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.361016 -0.666837
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.365815 0.139074
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.343919 0.176827
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.372966 0.305151
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.395718 -0.952982
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.407473 -0.840604
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.395199 -0.739615
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.381446 -0.680297
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.386688 0.085268
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.397890 0.217931
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.382006 0.255566
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.424055 -0.902947
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.442250 -0.803235
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.457507 -0.746269
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.425533 -0.677467
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.439068 0.124828
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.435349 0.197407
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.446754 0.277010
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.476086 -0.880774
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.489194 -0.858604
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.482385 -0.740198
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.481884 -0.706364
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.464222 0.086416
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.475057 0.170898
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.497906 0.266533
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.501103 -0.932889
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.530251 -0.811881
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.522461 -0.746495
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.535779 -0.698520
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.521616 0.081424
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.525915 0.186084
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.516929 0.295870
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.549671 -0.903439
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.554289 -0.821313
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.571611 -0.795670
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.550401 -0.692041
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.542747 -0.561395
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.560133 -0.510902
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.577037 -0.436473
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.548123 -0.343558
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.561727 -0.272747
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.540472 -0.203367
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.561657 -0.088268
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.550466 0.111004
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.561033 0.183285
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.545985 0.281059
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.579518 0.660742
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.544138 0.736755
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.544187 0.834852
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.554970 0.905283
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.595374 -0.944716
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.592462 -0.817826
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.599859 -0.754465
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.605703 -0.708413
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.592778 -0.624012
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.589252 -0.495816
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.596120 -0.423199
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.611095 -0.335320
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.589112 -0.259892
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.612070 -0.221677
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.583878 -0.143784
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.586174 -0.074719
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.597474 0.125627
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.586828 0.198410
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.616260 0.275106
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.606296 0.374870
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.599947 0.407019
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.584450 0.489761
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.592236 0.637341
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.601582 0.706645
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.612860 0.732431
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.592598 0.849384
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.609712 0.914315
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.659003 -0.884915
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.622476 -0.801011
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.640688 -0.776561
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.642132 -0.687726
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.647242 -0.606882
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.655192 -0.552275
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.624689 -0.405944
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.649575 -0.326865
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.636423 -0.303197
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.656265 -0.170049
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.642704 -0.150352
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.645868 -0.079537
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.656321 0.118787
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.644960 0.201940
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.625204 0.302969
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.627276 0.329949
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.646272 0.410035
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.657972 0.500775
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.656999 0.607050
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.642758 0.711038
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.632239 0.742965
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.625808 0.879365
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.637404 0.925206
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.677044 -0.909219
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.699097 -0.817280
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.663131 -0.761860
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.688460 -0.698383
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.692114 -0.622650
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.696423 -0.493217
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.697575 -0.474460
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.662695 -0.381213
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.690047 -0.280381
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.689183 -0.172315
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.691747 -0.138338
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.690378 -0.002803
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.693037 0.092954
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.665667 0.160579
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.675744 0.303689
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.668323 0.340743
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.674631 0.470644
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.674430 0.512984
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.699539 0.569304
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.691242 0.644677
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.685703 0.785368
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.667774 0.802762
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.668304 0.890033
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.735199 -0.917701
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.700873 -0.859244
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.717062 -0.761059
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.727062 -0.672924
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.735601 -0.617681
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.730144 -0.489041
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.705458 -0.409845
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.711018 -0.398099
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.729633 -0.243724
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.703356 -0.235145
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.729925 -0.116177
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.725836 -0.022178
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.716368 0.095610
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.700949 0.205735
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.711592 0.290544
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.727691 0.370669
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.711061 0.452481
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.736888 0.521191
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.704407 0.604602
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.705697 0.717984
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.715251 0.777993
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.706550 0.825077
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.729085 0.908896
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.765789 -0.953508
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.751349 -0.878647
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.741862 -0.791720
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.776211 -0.667445
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.772276 -0.560567
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.765279 -0.480212
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.750881 -0.479006
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.779898 -0.325846
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.772866 -0.257908
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.741510 -0.227948
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.762164 -0.139542
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.760539 -0.073960
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.771756 0.083072
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.758682 0.217991
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.754739 0.268830
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.750462 0.378847
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.777120 0.469139
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.746623 0.493499
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.746823 0.636502
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.746172 0.652916
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.747515 0.781954
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.773387 0.871647
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.777539 0.930040
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.795464 -0.954286
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.819180 -0.823552
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.792409 -0.782030
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.806497 -0.663710
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.801534 -0.588387
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.804946 -0.499221
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.797089 -0.472712
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.796287 -0.368086
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.808042 -0.291678
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.790782 -0.164364
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.786414 -0.147056
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.798105 -0.006928
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.788464 0.116147
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.784233 0.176569
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.793072 0.287521
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.807648 0.321122
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.780345 0.446962
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.817315 0.500338
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.790448 0.627228
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.784925 0.673528
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.806667 0.721123
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.816867 0.812231
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.814501 0.943914
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.829104 -0.901703
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.846752 -0.812724
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.846731 -0.735746
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.827451 -0.666182
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.852207 -0.639696
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.848909 -0.528376
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.858745 -0.429721
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.838165 -0.387372
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.830052 -0.263629
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.847822 -0.212079
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.850164 -0.109884
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.834197 -0.017246
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.837328 0.093446
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.821897 0.167891
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.829794 0.248127
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.837129 0.324198
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.853119 0.404866
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.856970 0.547775
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.829683 0.596368
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.827602 0.679179
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.834997 0.734104
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.857572 0.874499
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.842544 0.886256
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.875171 -0.886622
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.883976 -0.828017
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.884010 -0.723164
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.881418 -0.666459
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.870977 -0.570791
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.884998 -0.486734
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.883889 -0.474404
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.864450 -0.376420
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.870564 -0.246097
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.874630 -0.175669
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.887526 -0.111790
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.874291 -0.043464
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.865393 0.138154
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.895994 0.171415
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.895650 0.244549
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.882813 0.350331
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.890475 0.400623
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.895402 0.519742
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.879956 0.585710
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.873508 0.642584
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.863761 0.729202
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.879080 0.838400
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.880760 0.945976
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.920209 -0.942827
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.913295 -0.820975
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.920092 -0.722522
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.931743 -0.656854
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.925145 -0.613110
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.910470 -0.493365
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.934039 -0.454002
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.915047 -0.345372
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.939041 -0.250229
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.902337 -0.174012
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.917653 -0.132929
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.936418 -0.014719
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.915220 0.123933
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.908672 0.175489
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.933080 0.314646
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.904527 0.347988
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.909123 0.420797
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.910762 0.480323
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.923534 0.580404
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.925703 0.650520
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.934444 0.736188
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.916056 0.821554
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.917322 0.896682
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.956900 -0.910097
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.975877 -0.857057
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.979474 -0.764060
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.954536 -0.643432
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.966144 -0.603737
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.956377 -0.492200
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.956114 -0.477552
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.944371 -0.368628
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.974070 -0.272018
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.941759 -0.165427
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.964760 -0.122540
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.959758 -0.030957
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.956427 0.108604
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.945130 0.165364
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.965595 0.256121
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.959507 0.383924
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.947515 0.468818
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.957543 0.537950
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.973197 0.571024
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.954072 0.650216
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.969792 0.795105
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.962886 0.829091
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
+
+AttributeBegin
+    AreaLightSource "diffuse" "rgb L" [ 300.000000 180.000000 225.000000 ]
+    NamedMaterial "Light"
+    Translate 0.999000 1.964536 0.896444
+    Shape "sphere" "float radius" [ 0.001000 ]
+AttributeEnd
