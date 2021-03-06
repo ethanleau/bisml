@@ -134,7 +134,7 @@ Spectrum PathIntegrator::Li(const RayDifferential &r, const Scene &scene, Sample
             if (manyLightsConfigure /*&& (directlighting || bounces == 0)*/)
             {
                 LightTreeSampler lightTreeSampler(scene, &sampler, isect, irradianceSamplingSplitThreshold, brdflightSamplingSplitThreshold);
-                Ld = lightTreeSampler.Evaluate();
+                Ld = beta * lightTreeSampler.Evaluate();
                 nLightClusters += lightTreeSampler.GetLightCutSize();
                 ++nLightPoints;
                 if (lightTreeSampler.DidBRDFClustering())
